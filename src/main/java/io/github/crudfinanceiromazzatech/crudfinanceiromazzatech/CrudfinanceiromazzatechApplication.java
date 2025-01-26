@@ -8,13 +8,13 @@ import org.springframework.web.bind.annotation.GetMapping;
 @RestController
 public class CrudFinanceiroMazzatechApplication {
 
-	@GetMapping("/hello-world")
-	public String HelloWorld() {
-		return "Hello World!";
-	}
+    @GetMapping("/hello-world")
+    public String HelloWorld() {
+        return "Hello World!";
+    }
 
-	public static void main(String[] args) {
-		SpringApplication.run(CrudFinanceiroMazzatechApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CrudFinanceiroMazzatechApplication.class, args);
+    }
 
 }
