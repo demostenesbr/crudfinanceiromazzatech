@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.crudfinanceiromazzatech</groupId>
-	<artifactId>crudfinanceiromazzatech</artifactId>
+	<artifactId>CrudFinanceiroMazzatech</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>crudfinanceiromazzatech</name>
+	<name>CrudFinanceiroMazzatech</name>
 	<description>A CRUD financial service for Mazzatech company</description>
 	<url/>
 	<licenses>
